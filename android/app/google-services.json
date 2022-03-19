@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "426086061392",
+    "firebase_url": "https://stera-market.firebaseio.com",
+    "project_id": "stera-market",
+    "storage_bucket": "stera-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426086061392:android:240de3292e21dc5daa8855",
+        "android_client_info": {
+          "package_name": "com.steraksa.steramarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426086061392-j8k069m5lqkngf7s82eqdlkjnu5hinah.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steraksa.steramarket",
+            "certificate_hash": "7ecd2da80efd87e575395abb500e65a377aa8f42"
+          }
+        },
+        {
+          "client_id": "426086061392-potkkg4qglpvik38q01q7cgifk9k0ggg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steraksa.steramarket",
+            "certificate_hash": "538b8ac5aa2814dd874c94db7e9c7d42266fa219"
+          }
+        },
+        {
+          "client_id": "426086061392-k0tfsrdshi7knlsq38g298clphh0a5dl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_VfA9qeK2qiV9ib5Aghd91Kk14NAKS-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426086061392-k0tfsrdshi7knlsq38g298clphh0a5dl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
